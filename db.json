@@ -1,0 +1,18 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "employee_name": "Balaji",
+      "employee_email": "bala@c.c",
+      "employee_salary": "60000",
+      "employee_age": "22"
+    }
+  ],
+  "admin": [
+    {
+      "email": "balaji",
+      "password": "bala@11",
+      "id": 1
+    }
+  ]
+}
